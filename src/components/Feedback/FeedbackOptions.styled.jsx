@@ -7,6 +7,7 @@ export const Button = styled.button`
   background-color: #a9a9a9;
   font-weight: 500;
   font-size: 18px;
+  cursor: pointer;
   &:not(:last-child) {
     margin-right: 7px;
   }
